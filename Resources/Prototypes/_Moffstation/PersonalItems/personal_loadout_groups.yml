@@ -15,6 +15,7 @@
   loadouts:
   - PersonalItemAdelineTurtleneck
   - PersonalItemAineBeret
+  - PersonalItemAislingCello
   - PersonalItemAliceCaholicFlask
   - PersonalItemAllSaintsDayCrook
   - PersonalItemAnatolyGown
@@ -24,6 +25,7 @@
   - PersonalItemAsterGuitar
   - PersonalItemAuroraPin
   - PersonalItemAzumeGuitar
+  - PersonalItemBettyHeels
   - PersonalItemBiffNeatAward
   - PersonalItemBintendoHat
   - PersonalItemBoxcarGlasses
@@ -51,6 +53,7 @@
   - PersonalItemEx1Suit
   - PersonalItemFailRing
   - PersonalItemFlinkBow
+  - PersonalItemFQ-14
   - PersonalItemFranzCloak
   - PersonalItemFredSuit
   - PersonalItemFrostMedicalWebbing
@@ -77,6 +80,7 @@
   - PersonalItemKazoSkates
   - PersonalItemKennyPrisonerShirt
   - PersonalItemKethendachuakJumpskirt
+  - PersonalItemKikiBow
   - PersonalItemKimBass
   - PersonalItemKozanParka
   - PersonalItemKrakatoaCloak
@@ -100,6 +104,7 @@
   - PersonalItemPlastiPicture
   - PersonalItemPlentJacket
   - PersonalItemRareelsCassette
+  - PersonalItemRekaTablet
   - PersonalItemRemiaPin
   - PersonalItemReneePlanetaryPasscard
   - MoffPersonalItemRhytidomeFlute
